@@ -1,0 +1,1 @@
+This purpose of this project is to practice developing a webpage using html, and eventually style the website using css. 
